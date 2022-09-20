@@ -1,5 +1,5 @@
 #page title
-page_title                                : Yada                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Чисто гипотетически                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1601131802                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Yet Another Dictionary App                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Чисто гипотетически                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Look up unfamiliar words <br> Study meanings <br> Never forget a word again
+app_description                           : Коллекция сложных гипотетических дилемм, которые развеселят любую компанию и запомнятся надолго
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Koteam                               
 your_link                                 :                    
-your_city                                 :                                 
+your_city                                 : Vancouver                                
 email_address                             : hello@yada.team
 facebook_username                         :                                           
 instagram_username                        : 
@@ -35,17 +35,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Free Dictionary
-    description                           : This is a free dictionary with over 1,000,000 words with pronunciation, grammar examples, synonyms, and antonyms
+  - title                                 : Дилеммы
+    description                           : Примите 600+ затруднительных решений, когда правильного ответа не существует
     fontawesome_icon_name                 : magic
-    
-  - title                                 : Vocabulary Flashcards
-    description                           : You are able to add new words to your personal favorite vocabulary flash cards and memorize them
-    fontawesome_icon_name                 : star
-
-  - title                                 : Trainer
-    description                           : Flashcards trainer applies scientific learning methods to existing daily habits and makes mastering languages easier, more entertaining, and effective
-    fontawesome_icon_name                 : sync
 
 
 
